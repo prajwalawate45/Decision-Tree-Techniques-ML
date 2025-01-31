@@ -10,8 +10,13 @@ This repository contains a Jupyter Notebook exploring various decision tree tech
 
 # Requirements
 Python 3.x
+
 Jupyter Notebook
+
 Scikit-Learn
+
 Pandas
+
 Matplotlib
+
 Seaborn
